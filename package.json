@@ -1,5 +1,5 @@
 {
-  "name": "native-base",
+  "name": "wheniwork/native-base",
   "description": "Essential cross-platform UI components for React Native",
   "keywords": [
     "android",
@@ -14,7 +14,7 @@
     "rnpm"
   ],
   "version": "0.5.18",
-  "private": false,
+  "private": true,
   "dependencies": {
     "clamp": "^1.0.1",
     "color": "~0.11.1",
@@ -44,11 +44,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GeekyAnts/NativeBase.git"
+    "url": "git+https://github.com/wheniwork/NativeBase/NativeBase.git"
   },
   "main": "index.js",
   "bugs": {
-    "url": "https://github.com/GeekyAnts/NativeBase/issues"
+    "url": "https://github.com/wheniwork/NativeBase/issues"
   },
-  "homepage": "https://github.com/GeekyAnts/NativeBase#readme"
+  "homepage": "https://github.com/wheniwork/NativeBase#readme"
 }
